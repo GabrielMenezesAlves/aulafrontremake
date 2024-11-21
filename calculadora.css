@@ -1,0 +1,276 @@
+.caixa {
+    border: 1px solid red;
+    background-color: black;
+    width: 242px;
+    height: 472px;
+    color: white;
+    position: relative;
+    padding: 15px;
+    margin: 10px;
+}
+
+.display {
+    font-size: 70px;
+    text-align: right;
+    margin-right: 10px;
+    margin-top: 70px;
+    font-family: sans-serif;    
+}
+
+.ac {
+    background-color: lightgray;
+    color: black;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;  
+    font-size: 25px;
+    display: inline-block;   
+    margin: 3px;
+    margin-top: 5px;   
+    line-height: 50px;
+}
+
+.maismenos {
+    background-color: lightgray;
+    color: black;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;    
+    font-size: 25px;
+    display: inline-block; 
+    margin: 3px;
+    line-height: 50px;
+}
+
+.porcento {
+    background-color: lightgray;
+    color: black;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;    
+    font-size: 25px;
+    display: inline-block;
+    margin: 3px;
+    line-height: 50px;
+}
+
+.dividir {
+    background-color: darkorange;
+    color: white;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;    
+    font-size: 25px;
+    display: inline-block;
+    margin: 3px;
+    line-height: 50px;
+}
+
+.multiplica {
+    background-color: darkorange;
+    color: white;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;    
+    font-size: 25px;
+    display: inline-block;
+    margin: 3px;
+    line-height: 50px;
+}
+
+.menos {
+    background-color: darkorange;
+    color: white;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;    
+    font-size: 25px;
+    display: inline-block;
+    margin: 3px;
+    line-height: 50px;
+}
+
+.mais {
+    background-color: darkorange;
+    color: white;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;    
+    font-size: 25px;
+    display: inline-block;
+    margin: 3px;
+    line-height: 50px;
+}
+
+.igual {
+    background-color: darkorange;
+    color: white;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;    
+    font-size: 25px;
+    display: inline-block;
+    margin: 3px;
+    line-height: 50px;
+}
+
+.sete {
+    background-color: darkgrey;
+    color: white;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;    
+    font-size: 25px;
+    display: inline-block;
+    margin: 3px;
+    margin-top: 10px;
+    line-height: 50px;
+}
+
+.oito {
+    background-color: darkgrey;
+    color: white;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;    
+    font-size: 25px;
+    display: inline-block;
+    margin: 3px;
+    line-height: 50px;
+}
+
+.nove {
+    background-color: darkgrey;
+    color: white;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;    
+    font-size: 25px;
+    display: inline-block;
+    margin: 3px;
+    line-height: 50px;
+}
+
+.quatro {
+    background-color: darkgrey;
+    color: white;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;    
+    font-size: 25px;
+    display: inline-block;
+    margin: 3px;
+    margin-top: 10px;
+    line-height: 50px;
+}
+
+.cinco {
+    background-color: darkgrey;
+    color: white;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;    
+    font-size: 25px;
+    display: inline-block;
+    margin: 3px;
+    line-height: 50px;
+}
+
+.seis {
+    background-color: darkgrey;
+    color: white;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;    
+    font-size: 25px;
+    display: inline-block;
+    margin: 3px;
+    line-height: 50px;
+}
+
+.um {
+    background-color: darkgrey;
+    color: white;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;    
+    font-size: 25px;
+    display: inline-block;
+    margin: 3px;
+    margin-top: 10px;
+    line-height: 50px;
+}
+
+.dois {
+    background-color: darkgrey;
+    color: white;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;    
+    font-size: 25px;
+    display: inline-block;
+    margin: 3px;
+    line-height: 50px;
+}
+
+.tres {
+    background-color: darkgrey;
+    color: white;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;    
+    font-size: 25px;
+    display: inline-block;
+    margin: 3px;
+    line-height: 50px;
+}
+
+.zero {
+    background-color: darkgrey;
+    color: white;
+    height: 51px;
+    width: 92px;
+    border-radius: 30px;
+    text-align: left;          
+    font-size: 25px;
+    display: inline-block;
+    margin: 3px;
+    margin-top: 10px;
+    line-height: 50px;
+    padding-left: 20px;
+}
+
+.virgula {
+    background-color: darkgrey;
+    color: white;
+    height: 51px;
+    width: 51px;
+    border-radius: 30px;
+    text-align: center;    
+    font-size: 25px;
+    display: inline-block;
+    margin: 3px;
+    line-height: 50px;
+}
+
+.btn:hover {
+    background-color: red;
+    cursor: pointer;
+}
